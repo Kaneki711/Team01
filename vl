@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#Cat_Bot
 
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
@@ -43,8 +42,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage ="""
-========[INSANITY]========
-[Command In Group]
+=======================================
 ►Creator
 ►Gcreator
 ►Ginfo
@@ -66,7 +64,6 @@ helpMessage ="""
 ►Qr:on / off
 ►Autokick:on / off
 ►Autocancel:on / off
-[For Creator]
 ►Tagall
 ►Nk: @
 ►Boom @
@@ -81,8 +78,6 @@ helpMessage ="""
 ►Leave all group
 ►Auto join:on / off
 ►All join / (Cb1/2/3 join)
-►Ats
-[Comand Spesial]
 ►/ten
 ►/tid
 ►Steal home @
@@ -102,7 +97,9 @@ helpMessage ="""
 ►wikipedia
 ►runtime
 ►Check:
-By : INSAN & TRIANAS AND TEAM INSANITY
+============================================
+SELFBOT KANEKI
+============================================
 """
 
 KAC=[cl,ki,kk,kc]
