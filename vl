@@ -43,60 +43,62 @@ sys.setdefaultencoding('utf-8')
 
 helpMessage ="""
 =======================================
-►Creator
-►Gcreator
-►Ginfo
-►Gift/ All gift
-►Kick: (mid)
-►Invite: (mid)
-►Listgroup
-►Gurl
-►Cancelall
-►Absen
-►Add all
-►Recover
-►Speed
-►Ban @
-►Banlist
-►Unban @
-►Gn: (NamaGroup)
-►Url:on / off
-►Qr:on / off
-►Autokick:on / off
-►Autocancel:on / off
-►Tagall
-►Nk: @
-►Boom @
-►Bye all
-►@Bye
-►Bc: text
-►Kill ban
-►Set member: 
-►Ban group: 
-►Join group:
-►Leave group:
-►Leave all group
-►Auto join:on / off
-►All join / (Cb1/2/3 join)
-►/ten
-►/tid
-►Steal home @
-►Steal dp @
-►copy @
-►Backup
-►Mimic on
-►Mimic off
-►Target @
-►Del target @
-►Target list
-►/say
-►/musik
-►.lyric
-►.instagram
-►music
-►wikipedia
-►runtime
-►Check:
+COMMAND FOR OWNER
+=======================================
+♛Creator
+♛Gcreator
+♛Ginfo
+♛Gift/ All gift
+♛Kick: (mid)
+♛Invite: (mid)
+♛Listgroup
+♛Gurl
+♛Cancelall
+♛Absen
+♛Add all
+♛Recover
+♛Speed
+♛Ban @
+♛Banlist
+♛Unban @
+♛Gn: (NamaGroup)
+♛Url:on / off
+♛Qr:on / off
+♛Autokick:on / off
+♛Autocancel:on / off
+♛Tagall
+♛Nk: @
+♛Boom @
+♛Bye all
+♛@Bye
+♛Bc: text
+♛Kill ban
+♛Set member: 
+♛Ban group: 
+♛Join group:
+♛Leave group:
+♛Leave all group
+♛Auto join:on / off
+♛All join / (Cb1/2/3 join)
+♛/ten
+♛/tid
+♛Steal home @
+♛Steal dp @
+♛copy @
+♛Backup
+♛Mimic on
+♛Mimic off
+♛Target @
+♛Del target @
+♛Target list
+♛/say
+♛/musik
+♛.lyric
+♛.instagram
+♛music
+♛wikipedia
+♛runtime
+♛Check:
 ============================================
 SELFBOT KANEKI
 ============================================
@@ -108,8 +110,8 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 Bots=[mid,Amid,Bmid,Cmid]
-Creator=""
-admin=[""]
+Creator="uc77fd25b59f6e563d84f1334f3fed10b"
+admin=["uc77fd25b59f6e563d84f1334f3fed10b"]
 
 wait = {
     "LeaveRoom":True,
